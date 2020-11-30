@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Pixa-Gallery/static/css/main.124f6c9e.chunk.css",
+    "main.js": "/Pixa-Gallery/static/js/main.9db96e3b.chunk.js",
+    "main.js.map": "/Pixa-Gallery/static/js/main.9db96e3b.chunk.js.map",
+    "runtime-main.js": "/Pixa-Gallery/static/js/runtime-main.ac8c9b2e.js",
+    "runtime-main.js.map": "/Pixa-Gallery/static/js/runtime-main.ac8c9b2e.js.map",
+    "static/js/2.babf7b20.chunk.js": "/Pixa-Gallery/static/js/2.babf7b20.chunk.js",
+    "static/js/2.babf7b20.chunk.js.map": "/Pixa-Gallery/static/js/2.babf7b20.chunk.js.map",
+    "index.html": "/Pixa-Gallery/index.html",
+    "static/css/main.124f6c9e.chunk.css.map": "/Pixa-Gallery/static/css/main.124f6c9e.chunk.css.map",
+    "static/js/2.babf7b20.chunk.js.LICENSE.txt": "/Pixa-Gallery/static/js/2.babf7b20.chunk.js.LICENSE.txt",
+    "static/media/cameraicon.d99eba23.png": "/Pixa-Gallery/static/media/cameraicon.d99eba23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac8c9b2e.js",
+    "static/js/2.babf7b20.chunk.js",
+    "static/css/main.124f6c9e.chunk.css",
+    "static/js/main.9db96e3b.chunk.js"
+  ]
+}
